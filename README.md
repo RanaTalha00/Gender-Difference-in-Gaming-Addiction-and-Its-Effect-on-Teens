@@ -63,16 +63,7 @@ By combining **quantitative analysis in RStudio** with **interactive visualizati
 
 ## 📈 Power BI Dashboards  
 
-### 🔹 Dashboard 1 — *Regression & Statistical Analysis*
-Key visuals:
-- Gender-based academic & social impact of gaming addiction  
-- Gaming device preferences by gender  
-- Addiction vs self-esteem scatterplot  
-- Time spent vs addiction level  
-- Bubble chart (Monthly income vs gaming addiction)  
-- Correlation matrix between addiction & health indicators  
-
-### 🔹 Dashboard 2 — *Gender Difference & Health Impact*
+### 🔹 Dashboard 1 — *Gender Difference & Health Impact*
 Interactive visuals:
 - Different game preferences by gender  
 - Addiction effects on self-esteem  
@@ -80,7 +71,16 @@ Interactive visuals:
 - Mental health correlation with gaming addiction  
 - Social relation impact chart  
 - **KPI cards:** Average Self-Esteem, Anxiety, Depression, Gaming Hours, Devices Used  
-- **Slicers:** Gender, Education, Area, Game Type  
+- **Slicers:** Gender, Education, Area, Game Type
+
+### 🔹 Dashboard 2 — *Regression & Statistical Analysis*
+Key visuals:
+- Gender-based academic & social impact of gaming addiction  
+- Gaming device preferences by gender  
+- Addiction vs self-esteem scatterplot  
+- Time spent vs addiction level  
+- Bubble chart (Monthly income vs gaming addiction)  
+- Correlation matrix between addiction & health indicators  
 
 ---
 
